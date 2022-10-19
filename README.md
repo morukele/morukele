@@ -1,7 +1,7 @@
 - 👋🏿 Hi, I’m @morukele
 - 👀 I’m interested in systems programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on begineer level systems project
+- 🌱 I’m currently learning C++ & Rust
+- 💞️ I’m looking to collaborate on interesting projects in C++ or Rust
 - 📫 How to reach me orukele.dev@gmail.com
 
 <!---
