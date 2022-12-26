@@ -1,5 +1,6 @@
 - Hi, I’m @morukele
 - I’m interested in systems programming
+- Building distributed backends with nodejs
 - I’m currently learning C++
 - I’m looking to collaborate on interesting projects in C++
 - How to reach me: orukele.dev@gmail.com
