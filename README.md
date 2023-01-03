@@ -1,4 +1,3 @@
-- Hi, I’m @morukele, an PhD student
 - I’m interested in systems programming
 - I’m currently learning C++ for my PhD and Rust for backend development
 - How to reach me: orukele.dev@gmail.com
