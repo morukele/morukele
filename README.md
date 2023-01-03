@@ -1,8 +1,6 @@
-- Hi, I’m @morukele
+- Hi, I’m @morukele, an PhD student
 - I’m interested in systems programming
-- Building distributed backends with nodejs
-- I’m currently learning C++
-- I’m looking to collaborate on interesting projects in C++
+- I’m currently learning C++ for my PhD and Rust for backend development
 - How to reach me: orukele.dev@gmail.com
 
 <!---
