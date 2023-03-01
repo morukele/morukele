@@ -1,5 +1,5 @@
 - I’m interested in systems programming
-- I’m currently learning C++ for my PhD and Rust for backend development
+- I’m currently learning C++ and Rust
 - How to reach me: orukele.dev@gmail.com
 
 <!---
