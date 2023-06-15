@@ -2,6 +2,7 @@
 - I’m currently learning Rust for backend development
 - How to reach me: orukele.dev@gmail.com
 - Langugaes: Python 🐍, Rust 🦀, and JavaScript 📜
+- Open to work opportunitird, particularly on rust projects.
 
 <!---
 morukele/morukele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
