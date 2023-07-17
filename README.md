@@ -9,10 +9,18 @@
   </a>
 </p>
 
+## About me
 Thank you for viewing my profile, feel free to contact me or view my projects.
+
 - How to reach me: orukele.dev@gmail.com
 - Languages: Python 🐍, Rust 🦀, and JavaScript 📜
 - Open to work opportunities, particularly on rust projects.
+
+## Opensource work:
+
+Currently working on an open-source Rust library crate for using the Paystack API called [paystack-rs](https://github.com/morukele/paystack-rs). 
+
+[Paystack](https://paystack.com) enables modern online and offline payments for Africa by enabling African merchants to get paid from anyone anywhere in the world.
 
 <!---
 morukele/morukele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
