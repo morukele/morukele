@@ -18,9 +18,7 @@ Thank you for viewing my profile, feel free to contact me or view my projects.
 
 ## Opensource work:
 
-Author and Core Maintainer of [paystack-rs](https://github.com/morukele/paystack-rs). 
-
-[Paystack](https://paystack.com) enables modern online and offline payments for Africa by enabling African merchants to get paid from anyone anywhere in the world.
+- Author and Core Maintainer of [paystack-rs](https://github.com/morukele/paystack-rs). [Paystack](https://paystack.com) enables modern online and offline payments for Africa by enabling African merchants to get paid from anyone anywhere in the world.
 
 <!---
 morukele/morukele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
