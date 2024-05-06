@@ -13,7 +13,7 @@
 Thank you for viewing my profile, feel free to contact me or view my projects.
 
 - How to reach me: orukele.dev@gmail.com
-- Languages: Python 🐍, Rust 🦀, and JavaScript 📜
+- Languages: Python 🐍, Rust 🦀, C++, and JavaScript 📜
 - Open to work opportunities, particularly on rust projects.
 
 ## Opensource work:
