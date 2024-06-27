@@ -1,5 +1,3 @@
-# Welcome
-
 <p align="left">
   <a href="https://github.com/morukele/morukele/">
     <img src="https://komarev.com/ghpvc/?username=morukele" alt="morukele" />
@@ -9,17 +7,23 @@
   </a>
 </p>
 
+# Welcome
+I am actively seeking a backend engineering role with a software company focused on building reliable, secure, and robust software. I specialize in Rust and Python and can quickly adapt to new programming languages.
+
 ## About me
-Thank you for viewing my profile, feel free to contact me or view my projects. Here is a [list](https://github.com/morukele/Books) of books I plan to read or may have read.
-Feel free to suggest some books to me by creating a pull request.
+I am a passionate software engineer with a keen interest in designing, building, and deploying efficient, secure, safe, and reliable software.
+
+Check out [this list](https://github.com/morukele/Books) of books I plan to read or have already read. If you have any book suggestions, you can create a pull request.
 
 - How to reach me: orukele.dev@gmail.com
 - Languages: Python 🐍, Rust 🦀, C++, and JavaScript 📜
-- Open to work opportunities, particularly on rust projects.
+- Open to work opportunities, particularly on Rust projects.
 
-## Opensource work:
+## Open source work:
+- Author and Core Maintainer of [paystack-rs](https://github.com/morukele/paystack-rs). [Paystack](https://paystack.com) enables modern online and offline payments for Africa by helping African merchants receive payments from anyone worldwide.
 
-- Author and Core Maintainer of [paystack-rs](https://github.com/morukele/paystack-rs). [Paystack](https://paystack.com) enables modern online and offline payments for Africa by enabling African merchants to get paid from anyone anywhere in the world.
+## Important Side Projects
+- [ogheneOS](https://github.com/morukele/ogheneOS): a bare-bones operating system built in Rust with the aim of learning how operating systems work.
 
 <!---
 morukele/morukele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
