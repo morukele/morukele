@@ -23,7 +23,8 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 - Author and Core Maintainer of [paystack-rs](https://github.com/morukele/paystack-rs). [Paystack](https://paystack.com) enables modern online and offline payments for Africa by helping African merchants receive payments from anyone worldwide.
 
 ## Important Side Projects
-- [ogheneOS](https://github.com/morukele/ogheneOS): a bare-bones operating system built in Rust with the aim of learning how operating systems work.
+- [ogheneOS](https://github.com/morukele/ogheneOS): a bare-bones operating system built in Rust to learn how operating systems work.
+- [r-lox](https://github.com/morukele/r-lox): a Rust based interpreter for the lox programming language, aimed at learning how compliers and interpreters work.
 
 <!---
 morukele/morukele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
