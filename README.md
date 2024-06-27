@@ -10,7 +10,8 @@
 </p>
 
 ## About me
-Thank you for viewing my profile, feel free to contact me or view my projects.
+Thank you for viewing my profile, feel free to contact me or view my projects. Here is a [list](https://github.com/morukele/Books) of books I plan to read or may have read.
+Feel free to suggest some books to me by creating a pull request.
 
 - How to reach me: orukele.dev@gmail.com
 - Languages: Python 🐍, Rust 🦀, C++, and JavaScript 📜
