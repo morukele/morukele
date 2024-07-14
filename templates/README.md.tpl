@@ -28,6 +28,12 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 
 ## Recent pull requests
-{{range recentPullRequests 20}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+{{range recentPullRequests 10}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{end}}
