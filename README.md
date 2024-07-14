@@ -29,82 +29,13 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Recent pull requests
 
-Title: Add integration tests for Compression, large reads and writes, and multiple partitions #80
-URL: https://github.com/CallistoLabsNYC/samsa/pull/84
-State: OPEN
-CreatedAt: 1 week ago
-Repository name: CallistoLabsNYC/samsa
-Repository description: Rust-native Kafka/Redpanda protocol and client implementation.
-Repository URL: https://github.com/CallistoLabsNYC/samsa
-
-Title: Update Documentation &amp; Readme to be current #74
-URL: https://github.com/CallistoLabsNYC/samsa/pull/78
-State: MERGED
-CreatedAt: 2 weeks ago
-Repository name: CallistoLabsNYC/samsa
-Repository description: Rust-native Kafka/Redpanda protocol and client implementation.
-Repository URL: https://github.com/CallistoLabsNYC/samsa
-
-Title: changed all &amp;str to String
-URL: https://github.com/morukele/paystack-rs/pull/33
-State: MERGED
-CreatedAt: 8 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
-
-Title: cleanup
-URL: https://github.com/morukele/paystack-rs/pull/32
-State: MERGED
-CreatedAt: 8 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
-
-Title: added env variables to test run
-URL: https://github.com/morukele/paystack-rs/pull/31
-State: MERGED
-CreatedAt: 8 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
-
-Title: updated CI/CD to allow PR have access to test secrets
-URL: https://github.com/morukele/paystack-rs/pull/30
-State: MERGED
-CreatedAt: 8 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
-
-Title: Terminal
-URL: https://github.com/morukele/paystack-rs/pull/28
-State: MERGED
-CreatedAt: 8 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
-
-Title: Added Example Syntax Highlighting and Fixed some Readme issues
-URL: https://github.com/Genaro-Chris/spawn_groups/pull/1
-State: MERGED
-CreatedAt: 9 months ago
-Repository name: Genaro-Chris/spawn_groups
-Repository description: Structured concurrency construct written in Rust, for Rustaceans
-Repository URL: https://github.com/Genaro-Chris/spawn_groups
-
-Title: Restructure functions
-URL: https://github.com/morukele/paystack-rs/pull/16
-State: MERGED
-CreatedAt: 9 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
-
-Title: Subaccount api
-URL: https://github.com/morukele/paystack-rs/pull/14
-State: MERGED
-CreatedAt: 10 months ago
-Repository name: morukele/paystack-rs
-Repository description: An open-source rust library for using the PayStack API
-Repository URL: https://github.com/morukele/paystack-rs
+- [Add integration tests for Compression, large reads and writes, and multiple partitions #80] (https://github.com/CallistoLabsNYC/samsa/pull/84) (State: OPEN) CreatedAt: 1 week ago
+- [Update Documentation &amp; Readme to be current #74] (https://github.com/CallistoLabsNYC/samsa/pull/78) (State: MERGED) CreatedAt: 2 weeks ago
+- [changed all &amp;str to String] (https://github.com/morukele/paystack-rs/pull/33) (State: MERGED) CreatedAt: 8 months ago
+- [cleanup] (https://github.com/morukele/paystack-rs/pull/32) (State: MERGED) CreatedAt: 8 months ago
+- [added env variables to test run] (https://github.com/morukele/paystack-rs/pull/31) (State: MERGED) CreatedAt: 8 months ago
+- [updated CI/CD to allow PR have access to test secrets] (https://github.com/morukele/paystack-rs/pull/30) (State: MERGED) CreatedAt: 8 months ago
+- [Terminal] (https://github.com/morukele/paystack-rs/pull/28) (State: MERGED) CreatedAt: 8 months ago
+- [Added Example Syntax Highlighting and Fixed some Readme issues] (https://github.com/Genaro-Chris/spawn_groups/pull/1) (State: MERGED) CreatedAt: 9 months ago
+- [Restructure functions] (https://github.com/morukele/paystack-rs/pull/16) (State: MERGED) CreatedAt: 9 months ago
+- [Subaccount api] (https://github.com/morukele/paystack-rs/pull/14) (State: MERGED) CreatedAt: 10 months ago
