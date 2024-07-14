@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://github.com/morukele/morukele/">
+    <img src="https://komarev.com/ghpvc/?username=morukele" alt="morukele" />
+  </a>
+  <a href="https://github.com/junkurihara">
+    <img height="20" src="https://img.shields.io/github/followers/morukele?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 # Welcome
 I am actively seeking a backend engineering role with a software company focused on building reliable, secure, and robust software. I specialize in Rust and Python and can quickly adapt to new programming languages.
 
@@ -21,3 +30,4 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 ## Recent pull requests
 {{range recentPullRequests 20}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
