@@ -29,5 +29,5 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Recent pull requests
 {{range recentPullRequests 10}}
-- [{{.Title}}] ({{.URL}}) (State: {{.State}}) CreatedAt: {{humanize .CreatedAt}}
+- [{{.Title}}]({{.URL}}) (State: {{.State}}) CreatedAt: {{humanize .CreatedAt}}
 {{- end}}
