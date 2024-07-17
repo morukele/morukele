@@ -37,5 +37,5 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 - [updated CI/CD to allow PR have access to test secrets](https://github.com/morukele/paystack-rs/pull/30) (State: MERGED) CreatedAt: 8 months ago
 - [Terminal](https://github.com/morukele/paystack-rs/pull/28) (State: MERGED) CreatedAt: 8 months ago
 - [Added Example Syntax Highlighting and Fixed some Readme issues](https://github.com/Genaro-Chris/spawn_groups/pull/1) (State: MERGED) CreatedAt: 9 months ago
-- [Restructure functions](https://github.com/morukele/paystack-rs/pull/16) (State: MERGED) CreatedAt: 9 months ago
+- [Restructure functions](https://github.com/morukele/paystack-rs/pull/16) (State: MERGED) CreatedAt: 10 months ago
 - [Subaccount api](https://github.com/morukele/paystack-rs/pull/14) (State: MERGED) CreatedAt: 10 months ago
