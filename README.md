@@ -29,9 +29,9 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Recent pull requests
 
-- [Created HTTP Interface](https://github.com/morukele/paystack-rs/pull/41) (State: MERGED) CreatedAt: today
-- [Add integration tests for Compression, large reads and writes, and multiple partitions #80](https://github.com/CallistoLabsNYC/samsa/pull/84) (State: MERGED) CreatedAt: 1 week ago
-- [Update Documentation &amp; Readme to be current #74](https://github.com/CallistoLabsNYC/samsa/pull/78) (State: MERGED) CreatedAt: 2 weeks ago
+- [Created HTTP Interface](https://github.com/morukele/paystack-rs/pull/41) (State: MERGED) CreatedAt: 1 day ago
+- [Add integration tests for Compression, large reads and writes, and multiple partitions #80](https://github.com/CallistoLabsNYC/samsa/pull/84) (State: MERGED) CreatedAt: 2 weeks ago
+- [Update Documentation &amp; Readme to be current #74](https://github.com/CallistoLabsNYC/samsa/pull/78) (State: MERGED) CreatedAt: 3 weeks ago
 - [changed all &amp;str to String](https://github.com/morukele/paystack-rs/pull/33) (State: MERGED) CreatedAt: 8 months ago
 - [cleanup](https://github.com/morukele/paystack-rs/pull/32) (State: MERGED) CreatedAt: 8 months ago
 - [added env variables to test run](https://github.com/morukele/paystack-rs/pull/31) (State: MERGED) CreatedAt: 8 months ago
