@@ -29,9 +29,9 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Recent pull requests
 
-- [Implemented Transaction API Endpoint](https://github.com/morukele/paystack-rs/pull/42) (State: MERGED) CreatedAt: today
-- [Added Automatic topic generation for test](https://github.com/CallistoLabsNYC/samsa/pull/90) (State: MERGED) CreatedAt: 4 days ago
-- [Created HTTP Interface](https://github.com/morukele/paystack-rs/pull/41) (State: MERGED) CreatedAt: 5 days ago
+- [Implemented Transaction API Endpoint](https://github.com/morukele/paystack-rs/pull/42) (State: MERGED) CreatedAt: 1 day ago
+- [Added Automatic topic generation for test](https://github.com/CallistoLabsNYC/samsa/pull/90) (State: MERGED) CreatedAt: 5 days ago
+- [Created HTTP Interface](https://github.com/morukele/paystack-rs/pull/41) (State: MERGED) CreatedAt: 6 days ago
 - [Add integration tests for Compression, large reads and writes, and multiple partitions #80](https://github.com/CallistoLabsNYC/samsa/pull/84) (State: MERGED) CreatedAt: 2 weeks ago
 - [Update Documentation &amp; Readme to be current #74](https://github.com/CallistoLabsNYC/samsa/pull/78) (State: MERGED) CreatedAt: 3 weeks ago
 - [changed all &amp;str to String](https://github.com/morukele/paystack-rs/pull/33) (State: MERGED) CreatedAt: 8 months ago
