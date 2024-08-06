@@ -29,6 +29,7 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Recent pull requests
 
+- [Implemented the Transaction split endpoint](https://github.com/morukele/paystack-rs/pull/44) (State: MERGED) CreatedAt: today
 - [implemented create transaction split route](https://github.com/morukele/paystack-rs/pull/43) (State: MERGED) CreatedAt: 1 week ago
 - [Implemented Transaction API Endpoint](https://github.com/morukele/paystack-rs/pull/42) (State: MERGED) CreatedAt: 2 weeks ago
 - [Added Automatic topic generation for test](https://github.com/CallistoLabsNYC/samsa/pull/90) (State: MERGED) CreatedAt: 2 weeks ago
@@ -38,4 +39,3 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 - [changed all &amp;str to String](https://github.com/morukele/paystack-rs/pull/33) (State: MERGED) CreatedAt: 9 months ago
 - [cleanup](https://github.com/morukele/paystack-rs/pull/32) (State: MERGED) CreatedAt: 9 months ago
 - [added env variables to test run](https://github.com/morukele/paystack-rs/pull/31) (State: MERGED) CreatedAt: 9 months ago
-- [updated CI/CD to allow PR have access to test secrets](https://github.com/morukele/paystack-rs/pull/30) (State: MERGED) CreatedAt: 9 months ago
