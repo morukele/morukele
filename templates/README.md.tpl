@@ -22,7 +22,7 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 ## Open source work:
 - Author and Core Maintainer of [paystack-rs](https://github.com/morukele/paystack-rs). [Paystack](https://paystack.com) enables modern online and offline payments for Africa by helping African merchants receive payments from anyone worldwide.
 
-## Important Side Projects
+## Important Projects
 - [ogheneOS](https://github.com/morukele/ogheneOS): a bare-bones operating system built in Rust to learn how operating systems work.
 
 
