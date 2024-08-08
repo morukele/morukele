@@ -24,7 +24,6 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Important Side Projects
 - [ogheneOS](https://github.com/morukele/ogheneOS): a bare-bones operating system built in Rust to learn how operating systems work.
-- [r-lox](https://github.com/morukele/r-lox): a Rust based interpreter for the lox programming language, aimed at learning how compliers and interpreters work.
 
 
 ## Recent pull requests
