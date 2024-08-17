@@ -16,7 +16,7 @@ I am a passionate software engineer with a keen interest in designing, building,
 Check out [this list](https://github.com/morukele/Books) of books I plan to read or have already read. If you have any book suggestions, you can create a pull request.
 
 - How to reach me: orukele.dev@gmail.com
-- Languages: Python 🐍, Rust 🦀, C++, and JavaScript 📜
+- Languages: Python 🐍, Rust 🦀, C, and JavaScript 📜
 - Open to work opportunities, particularly on Rust projects.
 
 ## Open source work:
