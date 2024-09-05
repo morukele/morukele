@@ -28,7 +28,7 @@ Check out [this list](https://github.com/morukele/Books) of books I plan to read
 
 ## Recent pull requests
 
-- [Implemented the Transaction split endpoint](https://github.com/morukele/paystack-rs/pull/44) (State: MERGED) CreatedAt: 4 weeks ago
+- [Implemented the Transaction split endpoint](https://github.com/morukele/paystack-rs/pull/44) (State: MERGED) CreatedAt: 1 month ago
 - [implemented create transaction split route](https://github.com/morukele/paystack-rs/pull/43) (State: MERGED) CreatedAt: 1 month ago
 - [Implemented Transaction API Endpoint](https://github.com/morukele/paystack-rs/pull/42) (State: MERGED) CreatedAt: 1 month ago
 - [Added Automatic topic generation for test](https://github.com/CallistoLabsNYC/samsa/pull/90) (State: MERGED) CreatedAt: 1 month ago
