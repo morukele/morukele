@@ -1,6 +1,6 @@
 # About me
 
-Systems Engineering, Operating Systems and Digital Twins
+Systems Engineering, Operating Systems, Cryptography and Digital Twins
 
 ## Notable Projects
 
