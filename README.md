@@ -1,4 +1,3 @@
-
 # About me
 
 Systems Engineering, Operating Systems and Digital Twins
@@ -11,4 +10,4 @@ Systems Engineering, Operating Systems and Digital Twins
 
 ## Contact
 
-orukele.dev@gmail.com
+[email](orukele.dev@gmail.com)
