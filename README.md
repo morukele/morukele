@@ -6,6 +6,7 @@ Systems Engineering, Operating Systems, Cryptography and Digital Twins
 
 - [paystack-rs](https://github.com/morukele/paystack-rs): Rust native client for [Paystack](https://paystack.com)
 - [ogheneOS](https://github.com/morukele/ogheneOS): a bare-bones operating system built in Rust to learn how operating systems work.
+- [rls](https://github.com/morukele/rls): a rust based implementation of the ls utility in Unix-like operating systems.
 
 ## Contact
 
