@@ -1,6 +1,8 @@
 # About me
 
-Systems Engineering, Operating Systems, Cryptography and Digital Twins
+Systems Engineering, Operating Systems, Cryptography and Digital Twins.
+**Currently in search of a job**
+
 
 ## Notable Projects
 
